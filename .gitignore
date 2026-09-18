@@ -1,0 +1,21 @@
+## .NET build output
+bin/
+obj/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+
+## NuGet
+packages/
+
+## Runtime data files
+Graph.txt
+SavedNumbers.txt
+
+## OS files
+Thumbs.db
+desktop.ini
+.DS_Store
