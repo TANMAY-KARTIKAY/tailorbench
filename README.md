@@ -15,7 +15,7 @@ A WPF desktop application that benchmarks your CPU's single-core and multi-core 
 - **Custom Number Input** — Enter and save 10 custom numbers (0–100) for testing
 - **Dark Theme UI** — Clean, modern dark interface
 
-## Screenshots
+
 
 The app features a split-panel layout:
 - **Left Panel** — System info, benchmark scores, and controls
@@ -84,6 +84,4 @@ Place your `CPUBenchmark.exe` in the build output directory (`bin/Debug/net6.0-w
 - **System Monitoring**: System.Diagnostics.PerformanceCounter
 - **Language**: C#
 
-## License
 
-This project is for educational purposes.
